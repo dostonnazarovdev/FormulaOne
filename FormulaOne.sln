@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaOne", "FormulaOne\FormulaOne.csproj", "{2A42D9AA-255B-4071-9765-C571847C9E1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A42D9AA-255B-4071-9765-C571847C9E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A42D9AA-255B-4071-9765-C571847C9E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A42D9AA-255B-4071-9765-C571847C9E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A42D9AA-255B-4071-9765-C571847C9E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B6519C-F06B-42BC-B11C-A9D6DC1C603E}
+	EndGlobalSection
+EndGlobal
